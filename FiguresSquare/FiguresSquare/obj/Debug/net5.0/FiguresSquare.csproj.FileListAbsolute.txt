@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\testProject\FiguresSquare\FiguresSquare\bin\Debug\net5.0\FiguresSquare.deps.json
+C:\Users\user\Desktop\testProject\FiguresSquare\FiguresSquare\bin\Debug\net5.0\FiguresSquare.dll
+C:\Users\user\Desktop\testProject\FiguresSquare\FiguresSquare\bin\Debug\net5.0\ref\FiguresSquare.dll
+C:\Users\user\Desktop\testProject\FiguresSquare\FiguresSquare\bin\Debug\net5.0\FiguresSquare.pdb
+C:\Users\user\Desktop\testProject\FiguresSquare\FiguresSquare\obj\Debug\net5.0\FiguresSquare.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\testProject\FiguresSquare\FiguresSquare\obj\Debug\net5.0\FiguresSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\testProject\FiguresSquare\FiguresSquare\obj\Debug\net5.0\FiguresSquare.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\testProject\FiguresSquare\FiguresSquare\obj\Debug\net5.0\FiguresSquare.AssemblyInfo.cs
+C:\Users\user\Desktop\testProject\FiguresSquare\FiguresSquare\obj\Debug\net5.0\FiguresSquare.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\testProject\FiguresSquare\FiguresSquare\obj\Debug\net5.0\FiguresSquare.dll
+C:\Users\user\Desktop\testProject\FiguresSquare\FiguresSquare\obj\Debug\net5.0\ref\FiguresSquare.dll
+C:\Users\user\Desktop\testProject\FiguresSquare\FiguresSquare\obj\Debug\net5.0\FiguresSquare.pdb
